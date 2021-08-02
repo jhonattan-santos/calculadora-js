@@ -1,4 +1,4 @@
-describe('Suite de teste de adição', () => {
+describe('Suíte de teste de adição', () => {
 	let Calculadora = require('../../src/js/calculadora');
 
 	it('deve retornar 5 para 2 e 3', () => {
